@@ -1,5 +1,5 @@
 import express from "express";
-import { addAddress, getAddress } from "../Controllers/Address.js";
+import { addAddress, getAddress } from '../Controllers/address.js';
 
 
 import { Authenticated } from "../Middlewares/auth.js";
